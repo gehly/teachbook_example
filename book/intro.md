@@ -10,7 +10,7 @@ This book can be used as a template for other books. It includes a starter packa
 width: 50%
 name: roo_hardware
 ---
-add file in the folder
+ROO Telescope
 ```
 
 Sample Equation
