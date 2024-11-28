@@ -12,3 +12,6 @@ name: roo_hardware
 ---
 add file in the folder
 ```
+
+Sample Equation
+$\sqrt{4}$
